@@ -41,12 +41,13 @@ function maybeTrue()
   return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
 }
 
-function ()
+function  doWhileLoop(array)
 {
 do
 {
-  
+  delete array
   
 } while( array.length > 0 && maybeTrue());
 
+return array
 }
