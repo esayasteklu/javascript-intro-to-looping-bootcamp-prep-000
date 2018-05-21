@@ -18,7 +18,7 @@ function forLoop(array)
    
   }
    
- return array[i]
+ return array
 }
 
 function whileLoop(n)
