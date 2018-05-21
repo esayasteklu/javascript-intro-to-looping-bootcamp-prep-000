@@ -36,4 +36,9 @@ function whileLoop(n)
   
 }
 
+do
+{
+  
+  
+} while 
 
